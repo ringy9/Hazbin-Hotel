@@ -1,0 +1,52 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "579b8d6ab81684cd",
+            "max_int": "020e48ea8dc460ec",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Hazbin Hotel",
+            "photo": "https://i.postimg.cc/tRZN8HjB/0c5ae581cc7fe9ef344890e44d2a339c.jpg",
+            "voice": "https://ringy9.github.io/Hazbin-Hotel/hazbin_audio.mp3",
+            "video": "https://ringy9.github.io/Hazbin-Hotel/hizvideo.mp4",
+            "stories": [
+                "https://i.postimg.cc/y8BhJgSG/111c0500beafda0b9e4a6cde415c293f.jpg",
+"https://i.postimg.cc/gk3qkqrR/1af4f93045ca59f19b7e53e3bf9b10e8.jpg",
+"https://i.postimg.cc/wvSL97p0/28eeabbaca734bebfa36fa609f4f0299.jpg",
+"https://i.postimg.cc/s2H50T0F/5aa0f35ab9e382340b906d308db6e369.jpg",
+"https://i.postimg.cc/dQbjYSQw/5c85d901763054d98c90fecbe55cda44.jpg",
+"https://i.postimg.cc/5yLvyb91/77abf29b9e644057f5cfbed933fd3287.jpg",
+"https://i.postimg.cc/CxNGbhGx/7d492005a77ebfe4f6f211bb91a3b764.jpg",
+"https://i.postimg.cc/zBLTmT9y/81df244b169c41b4ecf2f49b4ee51fe0.jpg",
+"https://i.postimg.cc/g02vDCsq/d8c9ca956f53b3ee3c20c27321d0bb04.jpg",
+"https://i.postimg.cc/qB32jXsY/e500ffc4268a1f4407e823b84a1c7620.jpg",
+"https://i.postimg.cc/02GDqkH0/ed4b386a4168f79dbc97dcce3ce7ae47.jpg",
+"https://i.postimg.cc/kXPKZ6w5/f34566b889bb997394c23e913403f054.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/y8BhJgSG/111c0500beafda0b9e4a6cde415c293f.jpg",
+"https://i.postimg.cc/gk3qkqrR/1af4f93045ca59f19b7e53e3bf9b10e8.jpg",
+"https://i.postimg.cc/wvSL97p0/28eeabbaca734bebfa36fa609f4f0299.jpg",
+"https://i.postimg.cc/s2H50T0F/5aa0f35ab9e382340b906d308db6e369.jpg",
+"https://i.postimg.cc/dQbjYSQw/5c85d901763054d98c90fecbe55cda44.jpg",
+"https://i.postimg.cc/5yLvyb91/77abf29b9e644057f5cfbed933fd3287.jpg",
+"https://i.postimg.cc/CxNGbhGx/7d492005a77ebfe4f6f211bb91a3b764.jpg",
+"https://i.postimg.cc/zBLTmT9y/81df244b169c41b4ecf2f49b4ee51fe0.jpg",
+"https://i.postimg.cc/g02vDCsq/d8c9ca956f53b3ee3c20c27321d0bb04.jpg",
+"https://i.postimg.cc/qB32jXsY/e500ffc4268a1f4407e823b84a1c7620.jpg",
+"https://i.postimg.cc/02GDqkH0/ed4b386a4168f79dbc97dcce3ce7ae47.jpg",
+"https://i.postimg.cc/kXPKZ6w5/f34566b889bb997394c23e913403f054.jpg"
+            ]
+          
+        }
+    ]
+}
